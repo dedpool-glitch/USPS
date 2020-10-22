@@ -1,0 +1,15 @@
+This dataset comprises of all 
+
+
+Sex differences in crimes:
+
+Gottfredson and Hirschi's (1990) "general theory of crime," which stated that individuals with lower levels of self-control are more likely to be involved in criminal behavior, in a gender-sensitive context. The purpose of their study was to account for the gender gap in crime rates.Statistics have been more than consistent in reporting that males commit way more crimes than their opposite sex.
+There are two theories on the role of testosterone in aggression and competition among males.[21] The first one is the Challenge hypothesis which states that testosterone would increase during puberty thus facilitating reproductive and competitive behaviour which would include aggression as a result of evolution.[21] Thus it is the challenge of competition in relation to testosterone among males of the species that facilitates aggression and violence.[21] Studies conducted have found direct correlation between testosterone and dominance especially among the most violent criminals in prison who had the highest testosterone levels.[21] 
+2011 arrest data from the FBI:[52]
+https://en.wikipedia.org/wiki/Sex_differences_in_crime
+
+=>Histogram of Age. As we can see majority of the casualties have been reported in the ages between 20 and 40. After this there has been a very gradual step like decrease in casualties for the remainder of the age groups. This
+
+#boxplot of age- as seen from the boxplot of age shown above, we see that there are a lot of outliers  as people above that age might be physically incapable of committing any crime and even if they did the police forces have greater relative ease in apprehending older suspects
+
+https://ucr.fbi.gov/crime-in-the-u.s
